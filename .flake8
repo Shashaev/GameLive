@@ -1,0 +1,5 @@
+[flake8]
+application-import-names=painter
+import-order-style=google
+max-complexity=10
+exclude=.venv
